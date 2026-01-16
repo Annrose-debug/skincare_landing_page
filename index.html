@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Hero section  -->
+    <header class="Hero">
+      <h1>Glow Beauty</h1>
+      <p>Your natural skincare destination.</p>
+      <a href="#" class="btn" id="shopBtn">Shop Now</a>
+    </header>
+
+    <!-- About section  -->
+    <section class="About-us">
+      <img src="images/skincare.jpg" alt="Skincare" />
+      <div>
+        <h2>About us</h2>
+        <p>
+          We create a clean healthy and natural skincare products for every skin
+          type.
+        </p>
+      </div>
+    </section>
+
+    <!-- Product section  -->
+    <section class="products" id="products">
+      <h2>Our Products</h2>
+      <div class="products-container">
+        <div class="product"
+        data-description="A brightening serum that improves skin glow and reduces dark spots."
+     data-ingredients="Vitamin C, Hyaluronic Acid, Niacinamide"
+     data-benefits="Brightens, hydrates, evens skin tone">
+
+          <img src="images/glow serum.png" alt="glow serum" />
+          <h3>Glow Serum</h3>
+          <p>$29.99</p>
+          <button class="buy-btn">View Product</button>
+        </div>
+
+        <div class="product"
+        data-description="A deeply moisturizing cream that hydrates all day."
+     data-ingredients="Shea Butter, Aloe Vera, Ceramides"
+     data-benefits="Hydrates, softens, restores moisture barrier">
+
+          <img src="images/hydarting cream.png" alt="Hydrating cream" />
+          <h3>Hydrating cream</h3>
+          <p>$34.99</p>
+          <button class="buy-btn">View Product</button>
+        </div>
+
+        <div class="product"
+        data-description="A refreshing foaming cleanser formulated with Vitamin C to brighten dull skin and remove impurities without stripping moisture."
+     data-ingredients="Vitamin C, Aloe Vera, Green Tea Extract"
+     data-benefits="Brightens complexion, removes dirt and oil, protects against environmental damage">
+
+          <img src="images/vitamin c.png" alt="Vitamin C cleanser" />
+          <h3>Vitamin C Cleanser</h3>
+          <p>$24.99</p>
+          <button class="buy-btn">View Product</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- popup product details  -->
+     <div class="product-popup" id="productPopup">
+        <div class="popup-content">
+       <span id="closePopup">&times;</span>
+       <img src="" alt="" id="popupImage">
+       <h3 id="popupName"></h3>
+       <p id="popupPrice"></p>
+
+       <p id="popupDescription"></p>
+       <p id="popupIngredients"></p>
+       <p id="popupBenefits"></p>
+        </div>
+     </div>
+
+    <!-- testimonials  -->
+
+    <section class="testimonials">
+      <div class="review">
+        <p>"My skin is so much softer" - Anna</p>
+      </div>
+
+      <div class="review">
+        <p>"My skin looks brighter and hydrated" - Sarah</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>@ 2025 Glow Beauty. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
