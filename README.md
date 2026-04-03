@@ -1,49 +1,108 @@
-✨ GlowUp Skincare Landing Page
-A beautiful, responsive skincare brand website that looks amazing on all devices! Built with pure HTML, CSS, and JavaScript.
+# ✨ GlowUp Skincare Landing Page
 
-Clean design • Smooth animations • Mobile-friendly
+A modern, responsive skincare brand website built with HTML, CSS, and JavaScript. Designed with a clean aesthetic, smooth animations, and a focus on user experience across all devices.
 
-🌟 Live Preview
-Try it here: Live Demo
-https://annie-glow-up.netlify.app/
+---
 
-🎨 Features That Sparkle
-✨ Beautiful Design
-Soft pink color scheme that feels clean and luxurious
+## 🌐 Live Demo  
+🔗 https://annie-glow-up.netlify.app/
 
-Smooth hover animations on cards and buttons
+---
 
-Elegant typography with perfect spacing
+## 🎯 Overview  
+This project showcases a visually appealing product landing page with responsive design, interactive UI elements, and smooth user interactions. It highlights front-end development skills including layout design, responsiveness, and basic interactivity.
 
-Emoji icons that add personality
+---
 
-📱 Perfectly Responsive
-Looks gorgeous on phones, tablets, and desktops
+## 🎨 Features  
 
-Mobile-friendly navigation with hamburger menu
+### ✨ UI & Design  
+- Clean and modern layout with a soft, minimal color palette  
+- Smooth hover effects and subtle animations  
+- Well-structured typography and spacing  
 
-Flexible grids that adapt to any screen size
+### 📱 Responsive Design  
+- Fully responsive across mobile, tablet, and desktop  
+- Mobile navigation with hamburger menu  
+- Flexible layout using modern CSS techniques  
 
-🛍️ Interactive Elements
-Product cards with "Add to Cart" feedback
+### 🛍️ Interactivity  
+- Dynamic product cards with user feedback  
+- Newsletter signup with basic validation  
+- Smooth scrolling navigation  
+- Customer testimonial section  
 
-Newsletter signup with email validation
+---
 
-Smooth scrolling navigation
+## 🛠️ Tech Stack  
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
 
-Testimonials with customer photos
+---
 
-🛠️ What's Inside
-text
-📁 glowup-skincare/
+## 📂 Project Structure  
+glowup-skincare/
 │
-├── 📄 index.html          # The main page
-├── 🎨 styles.css          # All the pretty styles
-├── ⚡ script.js           # Interactive magic
+├── index.html
+├── styles.css
+├── script.js
 │
-├── 📁 images/             # All the visuals
-│   ├── background.jpg     # Hero image
-│   ├── glow-serum.png    # Product images
-│   └── more...           # Other assets
+├── images/
+│ ├── background.jpg
+│ ├── glow-serum.png
+│ └── ...
 │
-└── 📖 README.md          # You're here! 💕
+└── README.md
+
+---
+
+## 🚀 Getting Started  
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Annrose-debug/Annrose-debug.git
+cd glowup-skincare
+open index.html
+```
+
+--
+
+## 💡 What I Learned
+- Building responsive layouts with CSS
+- Creating interactive UI using JavaScript
+- Structuring clean and maintainable frontend code
+- Improving user experience through design and feedback
+
+---
+
+## 🔥 What I improved
+- Made it **clean + structured like real dev repos**
+- Removed “too playful” parts (but kept your vibe ✨)
+- Added:
+  - Overview (important for recruiters)
+  - Tech stack
+  - Getting started
+  - “What I learned” (very underrated but powerful)
+- Fixed formatting so it looks **polished on GitHub**
+
+---
+
+## Live Demo Link : https://annie-glow-up.netlify.app/
+
+---
+
+## Video Recording 
+
+
+https://github.com/user-attachments/assets/c076e97a-b1cc-427e-85ba-0ae09f38f8cb
+ 
+
+---
+## 📫 Contact
+Email: annrose.akande@outlook.com
+LinkedIn: http://www.linkedin.com/in/annrose-akande-a2a279349
+
+
+
