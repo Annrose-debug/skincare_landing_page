@@ -77,10 +77,6 @@ open index.html
 
 ---
 
-## Live Demo Link : https://annie-glow-up.netlify.app/
-
----
-
 ## Video Recording 
 
 
@@ -89,8 +85,8 @@ https://github.com/user-attachments/assets/c076e97a-b1cc-427e-85ba-0ae09f38f8cb
 
 ---
 ## 📫 Contact
-Email: annrose.akande@outlook.com
-LinkedIn: http://www.linkedin.com/in/annrose-akande-a2a279349
+- Email: annrose.akande@outlook.com
+- LinkedIn: http://www.linkedin.com/in/annrose-akande-a2a279349
 
 
 
