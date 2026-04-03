@@ -77,18 +77,6 @@ open index.html
 
 ---
 
-## 🔥 What I improved
-- Made it **clean + structured like real dev repos**
-- Removed “too playful” parts (but kept your vibe ✨)
-- Added:
-  - Overview (important for recruiters)
-  - Tech stack
-  - Getting started
-  - “What I learned” (very underrated but powerful)
-- Fixed formatting so it looks **polished on GitHub**
-
----
-
 ## Live Demo Link : https://annie-glow-up.netlify.app/
 
 ---
